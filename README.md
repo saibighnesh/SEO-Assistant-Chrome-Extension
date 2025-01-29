@@ -50,10 +50,6 @@ Before you begin, make sure you have the following:
    - After loading the extension, you should see the SEO Assistant icon in your Chrome toolbar.
    - Click on the icon to ensure it opens the popup as expected.
 
-### Troubleshooting
-
-- **Extension not visible in toolbar**: If you don't see the SEO Assistant icon, click on the Extensions icon (puzzle piece) in the toolbar and make sure that SEO Assistant is pinned.
-- **Loading error**: If you receive any errors during the installation, check the console for specific messages. Ensure that all files are present in the repository and that there are no naming discrepancies.
 
 For further assistance, you can always raise an issue in the [GitHub repository](https://github.com/saibighnesh/seo-assistant-chrome-extension/issues).
 
